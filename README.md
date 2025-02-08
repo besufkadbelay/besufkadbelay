@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Besufikad Belay – AI & Blockchain Developer | 3+ Years of Experience in Innovative Solutions  
+# 👋 Hi, I'm Daniel Elias – AI & Blockchain Developer | 4+ Years of Experience in Innovative Solutions  
 
 🔗 **Bridging AI and Blockchain Technologies for the Future**  
 I’m passionate about building **intelligent, decentralized applications** to solve complex challenges. With over three years of experience, I specialize in **AI model development** and **blockchain-based smart contracts**, pushing the boundaries of both fields to create impactful solutions.
@@ -6,7 +6,7 @@ I’m passionate about building **intelligent, decentralized applications** to s
 ---
 
 ## 🏆 **Achievements & GitHub Activity**  
-- 🔥 **GitHub Streak:** ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=besufkadbelay&theme=dark)  
+- 🔥 **GitHub Streak:** ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NeuralDevD&theme=dark)  
 - 🌟 **Top Skills:** Smart Contracts, Machine Learning, and DApps  
 - 🎖️ **Hackathon Finalist:** Active in blockchain and AI competitions.  
 - 🛠️ **Open Source Contributor:** Collaborating on cutting-edge blockchain and ML projects.
@@ -42,15 +42,15 @@ I’m passionate about building **intelligent, decentralized applications** to s
 
 ## 📫 **Let’s Connect!**  
 I’m always open to new collaborations and exciting project ideas. Feel free to reach out or explore my work below!  
-**🔗 Email:** [besufkadbelay9@gmail.com](mailto:besufkadbelay9@gmail.com)  
+**🔗 Email:** [besufkadbelay9@gmail.com](mailto:denise0.elias000@gmail.com)  
 **🌐 LinkedIn:** [Besufikad Belay on LinkedIn](https://linkedin.com) 
 **🔗 Kaggle:** [Besufikad Belay on Kaggle](https://kaggle.com) 
 
 ---
 
 ## 📊 **GitHub Stats & Activity**  
-![Besufikad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=besufkadbelay&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=besufkadbelay&layout=compact&theme=radical)  
+![Besufikad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeuralDevD&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NeuralDevD&layout=compact&theme=radical)  
 
 ---
 
