@@ -42,9 +42,9 @@ I’m passionate about building **intelligent, decentralized applications** to s
 
 ## 📫 **Let’s Connect!**  
 I’m always open to new collaborations and exciting project ideas. Feel free to reach out or explore my work below!  
-**🔗 Email:** [besufkadbelay9@gmail.com](mailto:denise0.elias000@gmail.com)  
-**🌐 LinkedIn:** [Besufikad Belay on LinkedIn](https://linkedin.com) 
-**🔗 Kaggle:** [Besufikad Belay on Kaggle](https://kaggle.com) 
+**🔗 Email:** [danise0.elias000@gmail.com](mailto:denise0.elias000@gmail.com)  
+**🌐 LinkedIn:** [Daniel Eliyas on LinkedIn](https://linkedin.com) 
+**🔗 Kaggle:** [Daniel Eliyas on Kaggle](https://kaggle.com) 
 
 ---
 
